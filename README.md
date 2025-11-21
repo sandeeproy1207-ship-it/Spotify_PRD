@@ -21,7 +21,7 @@ An AI-driven playlist experience that:
 ## 🔗 PRD Document
 Click below to open the full PRD:
 
-👉 **[Open PRD (PDF)](https://github.com/sandeeproy1207-ship-it/Spotify_PRD/blob/main/Spotify%20Project.pdf)**
+👉 **[Open PRD (PDF)](https://github.com/sandeeproy1207-ship-it/Spotify_PRD/blob/main/Spotify.pdf)**
 
 ## 🛠 Tools Used
 - Canva (UI mockups + layout)
